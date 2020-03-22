@@ -1,5 +1,6 @@
 # This script only supports Python2
 # Should be straight forward to convert to Python3
+# Based off HTB Challenge ropme
 
 from pwn import *
 
